@@ -1,9 +1,13 @@
 # Spam-Email-SMS-Classifiers
-🚀 Built an end-to-end Spam Email/SMS Classifier using Machine Learning, NLP, TF-IDF Vectorization, and Streamlit. The project includes Data Cleaning, Exploratory Data Analysis (EDA), Text Preprocessing, Model Building, and Real-Time Spam Detection through an interactive web application.
+🚀 Built an end-to-end Spam Email/SMS Classifier using Machine Learning, NLP, TF-IDF Vectorization, and Streamlit. The project includes Data Cleaning, Exploratory Data Analysis (EDA), Text Preprocessing, Model Building, and Real-Time Spam Detection through an interactive web application.    
+
 
 # 📧 ML & NLP based Spam Email/SMS Classifier
 
-🚀 An intelligent Machine Learning and NLP-based web application that classifies SMS and Email messages as **Spam** or **Ham (Not Spam)** in real time.
+🚀 An intelligent Machine Learning and NLP-based web application that classifies SMS and Email messages as **Spam** or **Ham (Not Spam)** in real time. 
+
+
+
 
 Built using a complete Machine Learning pipeline including **Data Cleaning, Exploratory Data Analysis (EDA), Text Preprocessing, TF-IDF Vectorization, and Model Building**, and deployed through an interactive **Streamlit** web application.
 
